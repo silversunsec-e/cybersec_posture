@@ -6,5 +6,5 @@
 # Usage: ./initial_posture_assessment.sh <subnet_cidr>
 # Example: ./initial_posture_assessment.sh 10.0.0.0/24
 # OR: sudo bash initial_posture_assessment.sh <subnet_cidr>
-# Make executable: chmod +x initital_posture.sh
-#                  ./initial_posture.sh
+# Make executable: chmod +x initital_posture_assessment.sh
+#                  ./initial_posture_assessment.sh
